@@ -1,0 +1,12 @@
+Idle: 1-100
+Fist: 101-200
+Index Point: 201-300
+Like: 301-400
+Light Grab: 401-500
+Open Hand: 501-600
+Middle Finger: 601-700
+"OK" Symbol: 701-800
+Rock Symbol: 801-900
+
+
+
